@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigationbar ul{
+    display: flex;
+    /* height: 50px; */
+    /* flex-direction: row; */
+    /* margin-left: 30vw; */
+    background-color: aqua;
+    padding-left: 8vw;
+    list-style: none;
+    
+}
+.navigationbar ul li{
+/* margin:2vw; */
+padding-left: 4vw;
+font-size: 19px;
+font-family: monospace;
+margin: 12px 10px;
+}
+.navigationbar{
+    /* width: 50%; */
+    /* margin-left: 350px; */
+}
+/* }
+.navigationbar img{
+height:50px;
+margin-right: 100px;
+
+
+
+} */
